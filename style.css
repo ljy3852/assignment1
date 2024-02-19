@@ -33,22 +33,6 @@ h1 {
     color: white;
 }
 
-hr {
-  background:ghostwhite;
-  height:1px;
-  border:0;
-}
-
-/* nav */
-ul,ol {
-	list-style: none;
-}
-a, a:link {
-	color: ghostwhite;
-	text-decoration: none;
-}
-a:hover{ color:#ffc045; };
-
 
 .text-center {
 	text-align: center
@@ -201,7 +185,6 @@ a:hover{ color:#ffc045; };
     margin: auto; /*중앙 정렬*/
     padding: 0 200px;
     margin-bottom: 20px;
-    color: ghostwhite;
 }
 
 .member .logo{
