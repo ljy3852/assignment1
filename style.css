@@ -28,9 +28,13 @@ h1 {
 
 /* 버튼 화면 */
 .but {
-    border-radius: 10px;
+    width: 70px;
+    height: 40px;
     background-color: gray;
     color: white;
+    font-weight: 700;
+    border-radius: 5px;
+    border: 0;
 }
 
 hr {
@@ -143,9 +147,6 @@ a:hover{ color:#ffc045; };
 	gap: 3rem;
 }
 
-.but {
-    width: 100px;
-}
 #alert {
     border-color: transparent;
 }
@@ -239,6 +240,10 @@ color:#fff
     display: flex;
     gap:10px; /*간격 벌려줄때 공식처럼 사용핟나 */
 }
+.check2 {
+  margin-top: 10px;
+}
+
 
 
 
