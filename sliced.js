@@ -28,7 +28,7 @@ function showSlides() {
 
 // 화면 구현이 잘 안되서 로그인은 간단한 if문으로 대처했습니다...
 login.addEventListener('click', function () {
-    if (id.value == 'acid') {
+    if (id.value == 'jiyun') {
         if (password.value == '0000') {
             alert('로그인 되었습니다!');
         } else {
